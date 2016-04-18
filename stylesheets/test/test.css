@@ -1,0 +1,14 @@
+div.column {
+  /* The background image must be 800px wide */
+  max-width: 800px;
+}
+
+figure.fluidratio {
+  padding-top: 10%;  /* slope */
+  height: 120px;  /* start height */
+
+  background-image: url(/images/backtest.png);
+  background-size: cover;
+  -moz-background-size: cover;  /* Firefox 3.6 */
+  background-position: center;  /* Internet Explorer 7/8 */
+}
