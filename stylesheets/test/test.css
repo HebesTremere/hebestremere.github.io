@@ -4,8 +4,8 @@ div.column {
 }
 
 figure.fluidratio {
-  padding-top: 10%;  /* slope */
-  height: 120px;  /* start height */
+  padding-top: 50%;  /* slope */
+  height: 900px;  /* start height */
 
   background-image: url(/images/backtest.png);
   background-size: cover;
